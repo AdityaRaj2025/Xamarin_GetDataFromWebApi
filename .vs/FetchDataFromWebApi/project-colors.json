@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ec77c91-7287-4880-ae2b-e95d9405f5eb": {
+      "ProjectGuid": "0ec77c91-7287-4880-ae2b-e95d9405f5eb",
+      "DisplayName": "FetchDataFromWebApi",
+      "ColorIndex": 0
+    },
+    "1edf9fcd-a870-41a4-ad7d-7c8d9153946d": {
+      "ProjectGuid": "1edf9fcd-a870-41a4-ad7d-7c8d9153946d",
+      "DisplayName": "FetchDataFromWebApi.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

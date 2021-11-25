@@ -1,0 +1,16 @@
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\bin\Debug\netstandard2.0\FetchDataFromWebApi.deps.json
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\bin\Debug\netstandard2.0\FetchDataFromWebApi.dll
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\bin\Debug\netstandard2.0\ref\FetchDataFromWebApi.dll
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\bin\Debug\netstandard2.0\FetchDataFromWebApi.pdb
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\FetchDataFromWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\FetchDataFromWebApi.AssemblyInfoInputs.cache
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\FetchDataFromWebApi.AssemblyInfo.cs
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\FetchDataFromWebApi.csproj.CoreCompileInputs.cache
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\XamlC.stamp
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\FetchDataFromWebApi.dll
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\ref\FetchDataFromWebApi.dll
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\FetchDataFromWebApi.pdb
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\FetchDataFromWebApi.csproj.AssemblyReference.cache
+E:\StarlandProjects\FetchDataFromWebApi\FetchDataFromWebApi\obj\Debug\netstandard2.0\GetDataInCollectionView.xaml.g.cs
